@@ -1,4 +1,4 @@
-# [Avis 3.5]("NULL") | 11.08.2022 | [Discord](https://discord.gg/cUADmrPxu9)
+# [Avis 3.5](https://github.com/wioniqle-q/avis-client/releases/tag/Release) | 11.08.2022 | [Discord](https://discord.gg/cUADmrPxu9)
 
 ## Özellikler
 - 💊 Left Clicker [1 - 20 CPS]
